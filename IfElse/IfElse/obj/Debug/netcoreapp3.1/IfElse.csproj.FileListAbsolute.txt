@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache
